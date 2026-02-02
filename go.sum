@@ -2612,10 +2612,6 @@ github.com/apache/thrift v0.17.0/go.mod h1:OLxhMRJxomX+1I/KUw03qoV3mMz16BwaKI+d4
 github.com/bazelbuild/rules_go v0.49.0/go.mod h1:Dhcz716Kqg1RHNWos+N6MlXNkjNP2EwZQ0LukRKJfMs=
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
 github.com/beorn7/perks v1.0.1/go.mod h1:G2ZrVWU2WbWT9wwq4/hrbKbnv/1ERSJQ0ibhJ6rlkpw=
-github.com/bhartigautam156/lasso v0.0.0-20260121065228-70b2c91143c4 h1:jG5jn/Nna6zsLlq978kF9vr8zP7cnNQjvlJ2doOOiqY=
-github.com/bhartigautam156/lasso v0.0.0-20260121065228-70b2c91143c4/go.mod h1:L3ol8PdO21KoMhNa3RWjpR3ZBnE70JCAod1nJuOvT1E=
-github.com/bhartigautam156/wrangler/v3 v3.3.2-0.20260121071658-21d254f6dd17 h1:qmOsGOuMXtLYJO4F3hyFa1OIR4YOaBGcw7po4WHL1l4=
-github.com/bhartigautam156/wrangler/v3 v3.3.2-0.20260121071658-21d254f6dd17/go.mod h1:rpo1jnGvWKh/quqgkHt0YlEVM1n0MakjVv9B6ojIVfA=
 github.com/blang/semver/v4 v4.0.0 h1:1PFHFE6yCCTv8C1TeyNNarDzntLi7wMI5i/pzqYIsAM=
 github.com/blang/semver/v4 v4.0.0/go.mod h1:IbckMUScFkM3pff0VJDNKRiT6TG/YpiHIM2yvyW5YoQ=
 github.com/boombuler/barcode v1.0.0/go.mod h1:paBWMcWSl3LHKBqUq+rly7CNSldXjb2rDl3JlRe0mD8=
@@ -3044,8 +3040,12 @@ github.com/prometheus/common v0.66.1 h1:h5E0h5/Y8niHc5DlaLlWLArTQI7tMrsfQjHV+d9Z
 github.com/prometheus/common v0.66.1/go.mod h1:gcaUsgf3KfRSwHY4dIMXLPV0K/Wg1oZ8+SbZk/HH/dA=
 github.com/prometheus/procfs v0.16.1 h1:hZ15bTNuirocR6u0JZ6BAHHmwS1p8B4P6MRqxtzMyRg=
 github.com/prometheus/procfs v0.16.1/go.mod h1:teAbpZRB1iIAJYREa1LsoWUXykVXA1KlTmWl8x/U+Is=
+github.com/rancher/lasso v0.2.6 h1:/QNO491vWlTNYgwOOopRlILcTv+pI/wBHYdPFD2Pk5E=
+github.com/rancher/lasso v0.2.6/go.mod h1:L3ol8PdO21KoMhNa3RWjpR3ZBnE70JCAod1nJuOvT1E=
 github.com/rancher/muchang v0.1.0 h1:Yuu3b7eFRqnnbp6qbLsP/5SY3IKGDj2mUUTzy4AiUVw=
 github.com/rancher/muchang v0.1.0/go.mod h1:sVg6mngaaZIpSegx/I79rymxm7n5gbI8j5PeoVoIONs=
+github.com/rancher/wrangler/v3 v3.3.2-rc.1 h1:L7UbofKTHBUq+yR0KtoTeaw9N+HX4fyyo9yrMXwyEJM=
+github.com/rancher/wrangler/v3 v3.3.2-rc.1/go.mod h1:bRcdkdwRTwoXVSWVGtJdSBNXkKbInlo+PVkCtkUCi4s=
 github.com/remyoudompheng/bigfft v0.0.0-20200410134404-eec4a21b6bb0/go.mod h1:qqbHyh8v60DhA7CoWK5oRCqLrMHRGoxYCSS9EjAz6Eo=
 github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec/go.mod h1:qqbHyh8v60DhA7CoWK5oRCqLrMHRGoxYCSS9EjAz6Eo=
 github.com/rogpeppe/fastuuid v1.2.0/go.mod h1:jVj6XXZzXRy/MSR5jhDC/2q6DgLz+nrA6LYCDYWNEvQ=
